@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/Андрей/Desktop/HSE/Higher-School-of-Economics/CPP/isogram-z-c0mbat
+# Install script for directory: C:/Users/Андрей/Desktop/UniProjects/Higher-School-of-Economics/CPP/isogram-z-c0mbat
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,8 +39,8 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("C:/Users/Андрей/Desktop/HSE/Higher-School-of-Economics/CPP/isogram-z-c0mbat/cmake-build-debug/external/doctest/cmake_install.cmake")
-  include("C:/Users/Андрей/Desktop/HSE/Higher-School-of-Economics/CPP/isogram-z-c0mbat/cmake-build-debug/isogram/cmake_install.cmake")
+  include("C:/Users/Андрей/Desktop/UniProjects/Higher-School-of-Economics/CPP/isogram-z-c0mbat/cmake-build-debug/external/doctest/cmake_install.cmake")
+  include("C:/Users/Андрей/Desktop/UniProjects/Higher-School-of-Economics/CPP/isogram-z-c0mbat/cmake-build-debug/isogram/cmake_install.cmake")
 
 endif()
 
@@ -52,5 +52,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/Андрей/Desktop/HSE/Higher-School-of-Economics/CPP/isogram-z-c0mbat/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/Андрей/Desktop/UniProjects/Higher-School-of-Economics/CPP/isogram-z-c0mbat/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

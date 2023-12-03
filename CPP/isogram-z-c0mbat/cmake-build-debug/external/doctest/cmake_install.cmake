@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/Андрей/Desktop/HSE/Higher-School-of-Economics/CPP/isogram-z-c0mbat/external/doctest
+# Install script for directory: C:/Users/Андрей/Desktop/UniProjects/Higher-School-of-Economics/CPP/isogram-z-c0mbat/external/doctest
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

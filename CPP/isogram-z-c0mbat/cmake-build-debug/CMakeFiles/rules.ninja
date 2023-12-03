@@ -80,7 +80,7 @@ rule CXX_EXECUTABLE_LINKER__isogram_Debug
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = "C:\Program Files\JetBrains\CLion 2021.3.2\bin\cmake\win\bin\cmake.exe" --regenerate-during-build -SC:\Users\Андрей\Desktop\HSE\Higher-School-of-Economics\CPP\isogram-z-c0mbat -BC:\Users\Андрей\Desktop\HSE\Higher-School-of-Economics\CPP\isogram-z-c0mbat\cmake-build-debug
+  command = "C:\Program Files\JetBrains\CLion 2021.3.2\bin\cmake\win\bin\cmake.exe" --regenerate-during-build -SC:\Users\Андрей\Desktop\UniProjects\Higher-School-of-Economics\CPP\isogram-z-c0mbat -BC:\Users\Андрей\Desktop\UniProjects\Higher-School-of-Economics\CPP\isogram-z-c0mbat\cmake-build-debug
   description = Re-running CMake...
   generator = 1
 

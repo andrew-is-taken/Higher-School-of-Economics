@@ -39,13 +39,13 @@ include CMakeFiles/rules.ninja
 #############################################
 # Logical path to working directory; prefix for absolute paths.
 
-cmake_ninja_workdir = C$:/Users/Андрей/Desktop/HSE/Higher-School-of-Economics/CPP/isogram-z-c0mbat/cmake-build-debug/
+cmake_ninja_workdir = C$:/Users/Андрей/Desktop/UniProjects/Higher-School-of-Economics/CPP/isogram-z-c0mbat/cmake-build-debug/
 
 #############################################
 # Utility command for rebuild_cache
 
 build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D C:\Users\Андрей\Desktop\HSE\Higher-School-of-Economics\CPP\isogram-z-c0mbat\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2021.3.2\bin\cmake\win\bin\cmake.exe" --regenerate-during-build -SC:\Users\Андрей\Desktop\HSE\Higher-School-of-Economics\CPP\isogram-z-c0mbat -BC:\Users\Андрей\Desktop\HSE\Higher-School-of-Economics\CPP\isogram-z-c0mbat\cmake-build-debug"
+  COMMAND = cmd.exe /C "cd /D C:\Users\Андрей\Desktop\UniProjects\Higher-School-of-Economics\CPP\isogram-z-c0mbat\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2021.3.2\bin\cmake\win\bin\cmake.exe" --regenerate-during-build -SC:\Users\Андрей\Desktop\UniProjects\Higher-School-of-Economics\CPP\isogram-z-c0mbat -BC:\Users\Андрей\Desktop\UniProjects\Higher-School-of-Economics\CPP\isogram-z-c0mbat\cmake-build-debug"
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -57,7 +57,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # Utility command for test
 
 build CMakeFiles/test.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D C:\Users\Андрей\Desktop\HSE\Higher-School-of-Economics\CPP\isogram-z-c0mbat\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2021.3.2\bin\cmake\win\bin\ctest.exe" --force-new-ctest-process "
+  COMMAND = cmd.exe /C "cd /D C:\Users\Андрей\Desktop\UniProjects\Higher-School-of-Economics\CPP\isogram-z-c0mbat\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2021.3.2\bin\cmake\win\bin\ctest.exe" --force-new-ctest-process "
   DESC = Running tests...
   pool = console
   restat = 1
@@ -69,7 +69,7 @@ build test: phony CMakeFiles/test.util
 # Utility command for edit_cache
 
 build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D C:\Users\Андрей\Desktop\HSE\Higher-School-of-Economics\CPP\isogram-z-c0mbat\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2021.3.2\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  COMMAND = cmd.exe /C "cd /D C:\Users\Андрей\Desktop\UniProjects\Higher-School-of-Economics\CPP\isogram-z-c0mbat\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2021.3.2\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
   DESC = No interactive CMake dialog available...
   restat = 1
 
@@ -77,7 +77,7 @@ build edit_cache: phony CMakeFiles/edit_cache.util
 
 # =============================================================================
 # Write statements declared in CMakeLists.txt:
-# C:/Users/Андрей/Desktop/HSE/Higher-School-of-Economics/CPP/isogram-z-c0mbat/CMakeLists.txt
+# C:/Users/Андрей/Desktop/UniProjects/Higher-School-of-Economics/CPP/isogram-z-c0mbat/CMakeLists.txt
 # =============================================================================
 
 
@@ -85,7 +85,7 @@ build edit_cache: phony CMakeFiles/edit_cache.util
 # Utility command for rebuild_cache
 
 build external/doctest/CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D C:\Users\Андрей\Desktop\HSE\Higher-School-of-Economics\CPP\isogram-z-c0mbat\cmake-build-debug\external\doctest && "C:\Program Files\JetBrains\CLion 2021.3.2\bin\cmake\win\bin\cmake.exe" --regenerate-during-build -SC:\Users\Андрей\Desktop\HSE\Higher-School-of-Economics\CPP\isogram-z-c0mbat -BC:\Users\Андрей\Desktop\HSE\Higher-School-of-Economics\CPP\isogram-z-c0mbat\cmake-build-debug"
+  COMMAND = cmd.exe /C "cd /D C:\Users\Андрей\Desktop\UniProjects\Higher-School-of-Economics\CPP\isogram-z-c0mbat\cmake-build-debug\external\doctest && "C:\Program Files\JetBrains\CLion 2021.3.2\bin\cmake\win\bin\cmake.exe" --regenerate-during-build -SC:\Users\Андрей\Desktop\UniProjects\Higher-School-of-Economics\CPP\isogram-z-c0mbat -BC:\Users\Андрей\Desktop\UniProjects\Higher-School-of-Economics\CPP\isogram-z-c0mbat\cmake-build-debug"
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -97,7 +97,7 @@ build external/doctest/rebuild_cache: phony external/doctest/CMakeFiles/rebuild_
 # Utility command for test
 
 build external/doctest/CMakeFiles/test.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D C:\Users\Андрей\Desktop\HSE\Higher-School-of-Economics\CPP\isogram-z-c0mbat\cmake-build-debug\external\doctest && "C:\Program Files\JetBrains\CLion 2021.3.2\bin\cmake\win\bin\ctest.exe" --force-new-ctest-process "
+  COMMAND = cmd.exe /C "cd /D C:\Users\Андрей\Desktop\UniProjects\Higher-School-of-Economics\CPP\isogram-z-c0mbat\cmake-build-debug\external\doctest && "C:\Program Files\JetBrains\CLion 2021.3.2\bin\cmake\win\bin\ctest.exe" --force-new-ctest-process "
   DESC = Running tests...
   pool = console
   restat = 1
@@ -113,10 +113,10 @@ build external/doctest/test: phony external/doctest/CMakeFiles/test.util
 
 build cmake_object_order_depends_target_doctest: phony || external/doctest/CMakeFiles/doctest.dir
 
-build external/doctest/CMakeFiles/doctest.dir/doctest.cpp.obj: CXX_COMPILER__doctest_Debug C$:/Users/Андрей/Desktop/HSE/Higher-School-of-Economics/CPP/isogram-z-c0mbat/external/doctest/doctest.cpp || cmake_object_order_depends_target_doctest
+build external/doctest/CMakeFiles/doctest.dir/doctest.cpp.obj: CXX_COMPILER__doctest_Debug C$:/Users/Андрей/Desktop/UniProjects/Higher-School-of-Economics/CPP/isogram-z-c0mbat/external/doctest/doctest.cpp || cmake_object_order_depends_target_doctest
   DEP_FILE = external\doctest\CMakeFiles\doctest.dir\doctest.cpp.obj.d
   FLAGS = -g -std=gnu++11
-  INCLUDES = -IC:/Users/Андрей/Desktop/HSE/Higher-School-of-Economics/CPP/isogram-z-c0mbat/external/doctest
+  INCLUDES = -IC:/Users/Андрей/Desktop/UniProjects/Higher-School-of-Economics/CPP/isogram-z-c0mbat/external/doctest
   OBJECT_DIR = external\doctest\CMakeFiles\doctest.dir
   OBJECT_FILE_DIR = external\doctest\CMakeFiles\doctest.dir
   TARGET_COMPILE_PDB = external\doctest\CMakeFiles\doctest.dir\doctest.pdb
@@ -144,7 +144,7 @@ build external/doctest/libdoctest.a: CXX_STATIC_LIBRARY_LINKER__doctest_Debug ex
 # Utility command for edit_cache
 
 build external/doctest/CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D C:\Users\Андрей\Desktop\HSE\Higher-School-of-Economics\CPP\isogram-z-c0mbat\cmake-build-debug\external\doctest && "C:\Program Files\JetBrains\CLion 2021.3.2\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  COMMAND = cmd.exe /C "cd /D C:\Users\Андрей\Desktop\UniProjects\Higher-School-of-Economics\CPP\isogram-z-c0mbat\cmake-build-debug\external\doctest && "C:\Program Files\JetBrains\CLion 2021.3.2\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
   DESC = No interactive CMake dialog available...
   restat = 1
 
@@ -152,7 +152,7 @@ build external/doctest/edit_cache: phony external/doctest/CMakeFiles/edit_cache.
 
 # =============================================================================
 # Write statements declared in CMakeLists.txt:
-# C:/Users/Андрей/Desktop/HSE/Higher-School-of-Economics/CPP/isogram-z-c0mbat/CMakeLists.txt
+# C:/Users/Андрей/Desktop/UniProjects/Higher-School-of-Economics/CPP/isogram-z-c0mbat/CMakeLists.txt
 # =============================================================================
 
 # =============================================================================
@@ -164,19 +164,19 @@ build external/doctest/edit_cache: phony external/doctest/CMakeFiles/edit_cache.
 
 build cmake_object_order_depends_target_isogram_test: phony || cmake_object_order_depends_target_doctest
 
-build isogram/CMakeFiles/isogram_test.dir/isogram.cpp.obj: CXX_COMPILER__isogram_test_Debug C$:/Users/Андрей/Desktop/HSE/Higher-School-of-Economics/CPP/isogram-z-c0mbat/isogram/isogram.cpp || cmake_object_order_depends_target_isogram_test
+build isogram/CMakeFiles/isogram_test.dir/isogram.cpp.obj: CXX_COMPILER__isogram_test_Debug C$:/Users/Андрей/Desktop/UniProjects/Higher-School-of-Economics/CPP/isogram-z-c0mbat/isogram/isogram.cpp || cmake_object_order_depends_target_isogram_test
   DEP_FILE = isogram\CMakeFiles\isogram_test.dir\isogram.cpp.obj.d
   FLAGS = -g -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast -std=gnu++20
-  INCLUDES = -IC:/Users/Андрей/Desktop/HSE/Higher-School-of-Economics/CPP/isogram-z-c0mbat/external/doctest
+  INCLUDES = -IC:/Users/Андрей/Desktop/UniProjects/Higher-School-of-Economics/CPP/isogram-z-c0mbat/external/doctest
   OBJECT_DIR = isogram\CMakeFiles\isogram_test.dir
   OBJECT_FILE_DIR = isogram\CMakeFiles\isogram_test.dir
   TARGET_COMPILE_PDB = isogram\CMakeFiles\isogram_test.dir\
   TARGET_PDB = isogram\isogram_test.pdb
 
-build isogram/CMakeFiles/isogram_test.dir/isogram_test.cpp.obj: CXX_COMPILER__isogram_test_Debug C$:/Users/Андрей/Desktop/HSE/Higher-School-of-Economics/CPP/isogram-z-c0mbat/isogram/isogram_test.cpp || cmake_object_order_depends_target_isogram_test
+build isogram/CMakeFiles/isogram_test.dir/isogram_test.cpp.obj: CXX_COMPILER__isogram_test_Debug C$:/Users/Андрей/Desktop/UniProjects/Higher-School-of-Economics/CPP/isogram-z-c0mbat/isogram/isogram_test.cpp || cmake_object_order_depends_target_isogram_test
   DEP_FILE = isogram\CMakeFiles\isogram_test.dir\isogram_test.cpp.obj.d
   FLAGS = -g -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast -std=gnu++20
-  INCLUDES = -IC:/Users/Андрей/Desktop/HSE/Higher-School-of-Economics/CPP/isogram-z-c0mbat/external/doctest
+  INCLUDES = -IC:/Users/Андрей/Desktop/UniProjects/Higher-School-of-Economics/CPP/isogram-z-c0mbat/external/doctest
   OBJECT_DIR = isogram\CMakeFiles\isogram_test.dir
   OBJECT_FILE_DIR = isogram\CMakeFiles\isogram_test.dir
   TARGET_COMPILE_PDB = isogram\CMakeFiles\isogram_test.dir\
@@ -210,7 +210,7 @@ build isogram/isogram_test.exe: CXX_EXECUTABLE_LINKER__isogram_test_Debug isogra
 
 build cmake_object_order_depends_target_isogram: phony || isogram/CMakeFiles/isogram.dir
 
-build isogram/CMakeFiles/isogram.dir/isogram.cpp.obj: CXX_COMPILER__isogram_Debug C$:/Users/Андрей/Desktop/HSE/Higher-School-of-Economics/CPP/isogram-z-c0mbat/isogram/isogram.cpp || cmake_object_order_depends_target_isogram
+build isogram/CMakeFiles/isogram.dir/isogram.cpp.obj: CXX_COMPILER__isogram_Debug C$:/Users/Андрей/Desktop/UniProjects/Higher-School-of-Economics/CPP/isogram-z-c0mbat/isogram/isogram.cpp || cmake_object_order_depends_target_isogram
   DEP_FILE = isogram\CMakeFiles\isogram.dir\isogram.cpp.obj.d
   FLAGS = -g -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast -std=gnu++20
   OBJECT_DIR = isogram\CMakeFiles\isogram.dir
@@ -218,7 +218,7 @@ build isogram/CMakeFiles/isogram.dir/isogram.cpp.obj: CXX_COMPILER__isogram_Debu
   TARGET_COMPILE_PDB = isogram\CMakeFiles\isogram.dir\
   TARGET_PDB = isogram\isogram.pdb
 
-build isogram/CMakeFiles/isogram.dir/main.cpp.obj: CXX_COMPILER__isogram_Debug C$:/Users/Андрей/Desktop/HSE/Higher-School-of-Economics/CPP/isogram-z-c0mbat/isogram/main.cpp || cmake_object_order_depends_target_isogram
+build isogram/CMakeFiles/isogram.dir/main.cpp.obj: CXX_COMPILER__isogram_Debug C$:/Users/Андрей/Desktop/UniProjects/Higher-School-of-Economics/CPP/isogram-z-c0mbat/isogram/main.cpp || cmake_object_order_depends_target_isogram
   DEP_FILE = isogram\CMakeFiles\isogram.dir\main.cpp.obj.d
   FLAGS = -g -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast -std=gnu++20
   OBJECT_DIR = isogram\CMakeFiles\isogram.dir
@@ -256,7 +256,7 @@ build isogram/cloud-test: phony isogram/CMakeFiles/cloud-test isogram/isogram_te
 # Utility command for rebuild_cache
 
 build isogram/CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D C:\Users\Андрей\Desktop\HSE\Higher-School-of-Economics\CPP\isogram-z-c0mbat\cmake-build-debug\isogram && "C:\Program Files\JetBrains\CLion 2021.3.2\bin\cmake\win\bin\cmake.exe" --regenerate-during-build -SC:\Users\Андрей\Desktop\HSE\Higher-School-of-Economics\CPP\isogram-z-c0mbat -BC:\Users\Андрей\Desktop\HSE\Higher-School-of-Economics\CPP\isogram-z-c0mbat\cmake-build-debug"
+  COMMAND = cmd.exe /C "cd /D C:\Users\Андрей\Desktop\UniProjects\Higher-School-of-Economics\CPP\isogram-z-c0mbat\cmake-build-debug\isogram && "C:\Program Files\JetBrains\CLion 2021.3.2\bin\cmake\win\bin\cmake.exe" --regenerate-during-build -SC:\Users\Андрей\Desktop\UniProjects\Higher-School-of-Economics\CPP\isogram-z-c0mbat -BC:\Users\Андрей\Desktop\UniProjects\Higher-School-of-Economics\CPP\isogram-z-c0mbat\cmake-build-debug"
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -268,7 +268,7 @@ build isogram/rebuild_cache: phony isogram/CMakeFiles/rebuild_cache.util
 # Utility command for test
 
 build isogram/CMakeFiles/test.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D C:\Users\Андрей\Desktop\HSE\Higher-School-of-Economics\CPP\isogram-z-c0mbat\cmake-build-debug\isogram && "C:\Program Files\JetBrains\CLion 2021.3.2\bin\cmake\win\bin\ctest.exe" --force-new-ctest-process "
+  COMMAND = cmd.exe /C "cd /D C:\Users\Андрей\Desktop\UniProjects\Higher-School-of-Economics\CPP\isogram-z-c0mbat\cmake-build-debug\isogram && "C:\Program Files\JetBrains\CLion 2021.3.2\bin\cmake\win\bin\ctest.exe" --force-new-ctest-process "
   DESC = Running tests...
   pool = console
   restat = 1
@@ -280,7 +280,7 @@ build isogram/test: phony isogram/CMakeFiles/test.util
 # Utility command for edit_cache
 
 build isogram/CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D C:\Users\Андрей\Desktop\HSE\Higher-School-of-Economics\CPP\isogram-z-c0mbat\cmake-build-debug\isogram && "C:\Program Files\JetBrains\CLion 2021.3.2\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  COMMAND = cmd.exe /C "cd /D C:\Users\Андрей\Desktop\UniProjects\Higher-School-of-Economics\CPP\isogram-z-c0mbat\cmake-build-debug\isogram && "C:\Program Files\JetBrains\CLion 2021.3.2\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
   DESC = No interactive CMake dialog available...
   restat = 1
 
@@ -291,7 +291,7 @@ build isogram/edit_cache: phony isogram/CMakeFiles/edit_cache.util
 # Custom command for isogram\CMakeFiles\cloud-test
 
 build isogram/CMakeFiles/cloud-test | ${cmake_ninja_workdir}isogram/CMakeFiles/cloud-test: CUSTOM_COMMAND || external/doctest/libdoctest.a isogram/isogram_test.exe
-  COMMAND = cmd.exe /C "cd /D C:\Users\Андрей\Desktop\HSE\Higher-School-of-Economics\CPP\isogram-z-c0mbat\cmake-build-debug\isogram && C:\Users\Андрей\Desktop\HSE\Higher-School-of-Economics\CPP\isogram-z-c0mbat\cmake-build-debug\isogram\isogram_test.exe --force-colors -d"
+  COMMAND = cmd.exe /C "cd /D C:\Users\Андрей\Desktop\UniProjects\Higher-School-of-Economics\CPP\isogram-z-c0mbat\cmake-build-debug\isogram && C:\Users\Андрей\Desktop\UniProjects\Higher-School-of-Economics\CPP\isogram-z-c0mbat\cmake-build-debug\isogram\isogram_test.exe --force-colors -d"
 
 # =============================================================================
 # Target aliases.
@@ -316,21 +316,21 @@ build libdoctest.a: phony external/doctest/libdoctest.a
 # =============================================================================
 
 #############################################
-# Folder: C:/Users/Андрей/Desktop/HSE/Higher-School-of-Economics/CPP/isogram-z-c0mbat/cmake-build-debug
+# Folder: C:/Users/Андрей/Desktop/UniProjects/Higher-School-of-Economics/CPP/isogram-z-c0mbat/cmake-build-debug
 
 build all: phony external/doctest/all isogram/all
 
 # =============================================================================
 
 #############################################
-# Folder: C:/Users/Андрей/Desktop/HSE/Higher-School-of-Economics/CPP/isogram-z-c0mbat/cmake-build-debug/external/doctest
+# Folder: C:/Users/Андрей/Desktop/UniProjects/Higher-School-of-Economics/CPP/isogram-z-c0mbat/cmake-build-debug/external/doctest
 
 build external/doctest/all: phony external/doctest/libdoctest.a
 
 # =============================================================================
 
 #############################################
-# Folder: C:/Users/Андрей/Desktop/HSE/Higher-School-of-Economics/CPP/isogram-z-c0mbat/cmake-build-debug/isogram
+# Folder: C:/Users/Андрей/Desktop/UniProjects/Higher-School-of-Economics/CPP/isogram-z-c0mbat/cmake-build-debug/isogram
 
 build isogram/all: phony isogram/isogram_test.exe isogram/isogram.exe
 

@@ -1,27 +1,27 @@
 [
 {
-  "directory": "C:/Users/Андрей/Desktop/HSE/Higher-School-of-Economics/CPP/isogram-z-c0mbat/cmake-build-debug",
-  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -IC:/Users/Андрей/Desktop/HSE/Higher-School-of-Economics/CPP/isogram-z-c0mbat/external/doctest -g -std=gnu++11 -o external\\doctest\\CMakeFiles\\doctest.dir\\doctest.cpp.obj -c C:\\Users\\Андрей\\Desktop\\HSE\\Higher-School-of-Economics\\CPP\\isogram-z-c0mbat\\external\\doctest\\doctest.cpp",
-  "file": "C:\\Users\\Андрей\\Desktop\\HSE\\Higher-School-of-Economics\\CPP\\isogram-z-c0mbat\\external\\doctest\\doctest.cpp"
+  "directory": "C:/Users/Андрей/Desktop/UniProjects/Higher-School-of-Economics/CPP/isogram-z-c0mbat/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -IC:/Users/Андрей/Desktop/UniProjects/Higher-School-of-Economics/CPP/isogram-z-c0mbat/external/doctest -g -std=gnu++11 -o external\\doctest\\CMakeFiles\\doctest.dir\\doctest.cpp.obj -c C:\\Users\\Андрей\\Desktop\\UniProjects\\Higher-School-of-Economics\\CPP\\isogram-z-c0mbat\\external\\doctest\\doctest.cpp",
+  "file": "C:\\Users\\Андрей\\Desktop\\UniProjects\\Higher-School-of-Economics\\CPP\\isogram-z-c0mbat\\external\\doctest\\doctest.cpp"
 },
 {
-  "directory": "C:/Users/Андрей/Desktop/HSE/Higher-School-of-Economics/CPP/isogram-z-c0mbat/cmake-build-debug",
-  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -IC:/Users/Андрей/Desktop/HSE/Higher-School-of-Economics/CPP/isogram-z-c0mbat/external/doctest -g -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast -std=gnu++20 -o isogram\\CMakeFiles\\isogram_test.dir\\isogram.cpp.obj -c C:\\Users\\Андрей\\Desktop\\HSE\\Higher-School-of-Economics\\CPP\\isogram-z-c0mbat\\isogram\\isogram.cpp",
-  "file": "C:\\Users\\Андрей\\Desktop\\HSE\\Higher-School-of-Economics\\CPP\\isogram-z-c0mbat\\isogram\\isogram.cpp"
+  "directory": "C:/Users/Андрей/Desktop/UniProjects/Higher-School-of-Economics/CPP/isogram-z-c0mbat/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -IC:/Users/Андрей/Desktop/UniProjects/Higher-School-of-Economics/CPP/isogram-z-c0mbat/external/doctest -g -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast -std=gnu++20 -o isogram\\CMakeFiles\\isogram_test.dir\\isogram.cpp.obj -c C:\\Users\\Андрей\\Desktop\\UniProjects\\Higher-School-of-Economics\\CPP\\isogram-z-c0mbat\\isogram\\isogram.cpp",
+  "file": "C:\\Users\\Андрей\\Desktop\\UniProjects\\Higher-School-of-Economics\\CPP\\isogram-z-c0mbat\\isogram\\isogram.cpp"
 },
 {
-  "directory": "C:/Users/Андрей/Desktop/HSE/Higher-School-of-Economics/CPP/isogram-z-c0mbat/cmake-build-debug",
-  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -IC:/Users/Андрей/Desktop/HSE/Higher-School-of-Economics/CPP/isogram-z-c0mbat/external/doctest -g -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast -std=gnu++20 -o isogram\\CMakeFiles\\isogram_test.dir\\isogram_test.cpp.obj -c C:\\Users\\Андрей\\Desktop\\HSE\\Higher-School-of-Economics\\CPP\\isogram-z-c0mbat\\isogram\\isogram_test.cpp",
-  "file": "C:\\Users\\Андрей\\Desktop\\HSE\\Higher-School-of-Economics\\CPP\\isogram-z-c0mbat\\isogram\\isogram_test.cpp"
+  "directory": "C:/Users/Андрей/Desktop/UniProjects/Higher-School-of-Economics/CPP/isogram-z-c0mbat/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -IC:/Users/Андрей/Desktop/UniProjects/Higher-School-of-Economics/CPP/isogram-z-c0mbat/external/doctest -g -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast -std=gnu++20 -o isogram\\CMakeFiles\\isogram_test.dir\\isogram_test.cpp.obj -c C:\\Users\\Андрей\\Desktop\\UniProjects\\Higher-School-of-Economics\\CPP\\isogram-z-c0mbat\\isogram\\isogram_test.cpp",
+  "file": "C:\\Users\\Андрей\\Desktop\\UniProjects\\Higher-School-of-Economics\\CPP\\isogram-z-c0mbat\\isogram\\isogram_test.cpp"
 },
 {
-  "directory": "C:/Users/Андрей/Desktop/HSE/Higher-School-of-Economics/CPP/isogram-z-c0mbat/cmake-build-debug",
-  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -g -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast -std=gnu++20 -o isogram\\CMakeFiles\\isogram.dir\\isogram.cpp.obj -c C:\\Users\\Андрей\\Desktop\\HSE\\Higher-School-of-Economics\\CPP\\isogram-z-c0mbat\\isogram\\isogram.cpp",
-  "file": "C:\\Users\\Андрей\\Desktop\\HSE\\Higher-School-of-Economics\\CPP\\isogram-z-c0mbat\\isogram\\isogram.cpp"
+  "directory": "C:/Users/Андрей/Desktop/UniProjects/Higher-School-of-Economics/CPP/isogram-z-c0mbat/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -g -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast -std=gnu++20 -o isogram\\CMakeFiles\\isogram.dir\\isogram.cpp.obj -c C:\\Users\\Андрей\\Desktop\\UniProjects\\Higher-School-of-Economics\\CPP\\isogram-z-c0mbat\\isogram\\isogram.cpp",
+  "file": "C:\\Users\\Андрей\\Desktop\\UniProjects\\Higher-School-of-Economics\\CPP\\isogram-z-c0mbat\\isogram\\isogram.cpp"
 },
 {
-  "directory": "C:/Users/Андрей/Desktop/HSE/Higher-School-of-Economics/CPP/isogram-z-c0mbat/cmake-build-debug",
-  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -g -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast -std=gnu++20 -o isogram\\CMakeFiles\\isogram.dir\\main.cpp.obj -c C:\\Users\\Андрей\\Desktop\\HSE\\Higher-School-of-Economics\\CPP\\isogram-z-c0mbat\\isogram\\main.cpp",
-  "file": "C:\\Users\\Андрей\\Desktop\\HSE\\Higher-School-of-Economics\\CPP\\isogram-z-c0mbat\\isogram\\main.cpp"
+  "directory": "C:/Users/Андрей/Desktop/UniProjects/Higher-School-of-Economics/CPP/isogram-z-c0mbat/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -g -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast -std=gnu++20 -o isogram\\CMakeFiles\\isogram.dir\\main.cpp.obj -c C:\\Users\\Андрей\\Desktop\\UniProjects\\Higher-School-of-Economics\\CPP\\isogram-z-c0mbat\\isogram\\main.cpp",
+  "file": "C:\\Users\\Андрей\\Desktop\\UniProjects\\Higher-School-of-Economics\\CPP\\isogram-z-c0mbat\\isogram\\main.cpp"
 }
 ]

@@ -79,7 +79,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/Андрей/Desktop/HSE/Higher-School-of-Economics/CPP/isogram-z-c0mbat/cmake-build-debug"
+			"value" : "c:/Users/Андрей/Desktop/UniProjects/Higher-School-of-Economics/CPP/isogram-z-c0mbat/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -503,7 +503,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/Андрей/Desktop/HSE/Higher-School-of-Economics/CPP/isogram-z-c0mbat"
+			"value" : "C:/Users/Андрей/Desktop/UniProjects/Higher-School-of-Economics/CPP/isogram-z-c0mbat"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1191,7 +1191,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Андрей/Desktop/HSE/Higher-School-of-Economics/CPP/isogram-z-c0mbat/cmake-build-debug"
+			"value" : "C:/Users/Андрей/Desktop/UniProjects/Higher-School-of-Economics/CPP/isogram-z-c0mbat/cmake-build-debug"
 		},
 		{
 			"name" : "Isogram_IS_TOP_LEVEL",
@@ -1215,7 +1215,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Андрей/Desktop/HSE/Higher-School-of-Economics/CPP/isogram-z-c0mbat"
+			"value" : "C:/Users/Андрей/Desktop/UniProjects/Higher-School-of-Economics/CPP/isogram-z-c0mbat"
 		},
 		{
 			"name" : "WARNINGS_AS_ERRORS",
@@ -1239,7 +1239,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Андрей/Desktop/HSE/Higher-School-of-Economics/CPP/isogram-z-c0mbat/cmake-build-debug/external/doctest"
+			"value" : "C:/Users/Андрей/Desktop/UniProjects/Higher-School-of-Economics/CPP/isogram-z-c0mbat/cmake-build-debug/external/doctest"
 		},
 		{
 			"name" : "doctest_IS_TOP_LEVEL",
@@ -1263,7 +1263,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Андрей/Desktop/HSE/Higher-School-of-Economics/CPP/isogram-z-c0mbat/external/doctest"
+			"value" : "C:/Users/Андрей/Desktop/UniProjects/Higher-School-of-Economics/CPP/isogram-z-c0mbat/external/doctest"
 		}
 	],
 	"kind" : "cache",

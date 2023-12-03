@@ -98,7 +98,7 @@
 				{
 					"directoryIndex" : 1,
 					"id" : "doctest::@dd360341bad613a1a6b7",
-					"jsonFile" : "target-doctest-Debug-4c18bc3ad2cfb59ac575.json",
+					"jsonFile" : "target-doctest-Debug-201a82367cecf8e27672.json",
 					"name" : "doctest",
 					"projectIndex" : 1
 				},
@@ -112,7 +112,7 @@
 				{
 					"directoryIndex" : 2,
 					"id" : "isogram_test::@76d165adaa68d5bcd29f",
-					"jsonFile" : "target-isogram_test-Debug-9588a689b240f0848cc7.json",
+					"jsonFile" : "target-isogram_test-Debug-364717b02c71c4be5ad4.json",
 					"name" : "isogram_test",
 					"projectIndex" : 0
 				}
@@ -122,8 +122,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/Андрей/Desktop/HSE/Higher-School-of-Economics/CPP/isogram-z-c0mbat/cmake-build-debug",
-		"source" : "C:/Users/Андрей/Desktop/HSE/Higher-School-of-Economics/CPP/isogram-z-c0mbat"
+		"build" : "C:/Users/Андрей/Desktop/UniProjects/Higher-School-of-Economics/CPP/isogram-z-c0mbat/cmake-build-debug",
+		"source" : "C:/Users/Андрей/Desktop/UniProjects/Higher-School-of-Economics/CPP/isogram-z-c0mbat"
 	},
 	"version" : 
 	{
