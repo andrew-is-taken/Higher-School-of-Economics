@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "raindrops_test",
+      "setup": "",
+      "run": "python3 -m unittest raindrops_test.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    }
+  ]
+}

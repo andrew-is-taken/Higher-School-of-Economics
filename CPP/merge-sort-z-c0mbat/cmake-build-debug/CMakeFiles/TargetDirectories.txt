@@ -1,0 +1,13 @@
+C:/Users/Андрей/Desktop/UniProjects/Higher-School-of-Economics/CPP/merge-sort-z-c0mbat/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Андрей/Desktop/UniProjects/Higher-School-of-Economics/CPP/merge-sort-z-c0mbat/cmake-build-debug/CMakeFiles/test.dir
+C:/Users/Андрей/Desktop/UniProjects/Higher-School-of-Economics/CPP/merge-sort-z-c0mbat/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Андрей/Desktop/UniProjects/Higher-School-of-Economics/CPP/merge-sort-z-c0mbat/cmake-build-debug/external/doctest/CMakeFiles/rebuild_cache.dir
+C:/Users/Андрей/Desktop/UniProjects/Higher-School-of-Economics/CPP/merge-sort-z-c0mbat/cmake-build-debug/external/doctest/CMakeFiles/test.dir
+C:/Users/Андрей/Desktop/UniProjects/Higher-School-of-Economics/CPP/merge-sort-z-c0mbat/cmake-build-debug/external/doctest/CMakeFiles/doctest.dir
+C:/Users/Андрей/Desktop/UniProjects/Higher-School-of-Economics/CPP/merge-sort-z-c0mbat/cmake-build-debug/external/doctest/CMakeFiles/edit_cache.dir
+C:/Users/Андрей/Desktop/UniProjects/Higher-School-of-Economics/CPP/merge-sort-z-c0mbat/cmake-build-debug/merge-sort/CMakeFiles/cloud-test.dir
+C:/Users/Андрей/Desktop/UniProjects/Higher-School-of-Economics/CPP/merge-sort-z-c0mbat/cmake-build-debug/merge-sort/CMakeFiles/merge-sort-test.dir
+C:/Users/Андрей/Desktop/UniProjects/Higher-School-of-Economics/CPP/merge-sort-z-c0mbat/cmake-build-debug/merge-sort/CMakeFiles/merge-sort.dir
+C:/Users/Андрей/Desktop/UniProjects/Higher-School-of-Economics/CPP/merge-sort-z-c0mbat/cmake-build-debug/merge-sort/CMakeFiles/rebuild_cache.dir
+C:/Users/Андрей/Desktop/UniProjects/Higher-School-of-Economics/CPP/merge-sort-z-c0mbat/cmake-build-debug/merge-sort/CMakeFiles/test.dir
+C:/Users/Андрей/Desktop/UniProjects/Higher-School-of-Economics/CPP/merge-sort-z-c0mbat/cmake-build-debug/merge-sort/CMakeFiles/edit_cache.dir

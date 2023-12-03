@@ -1,0 +1,27 @@
+[
+{
+  "directory": "C:/Users/Андрей/Desktop/UniProjects/Higher-School-of-Economics/CPP/merge-sort-z-c0mbat/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -IC:/Users/Андрей/Desktop/UniProjects/Higher-School-of-Economics/CPP/merge-sort-z-c0mbat/external/doctest -g -std=gnu++11 -o external\\doctest\\CMakeFiles\\doctest.dir\\doctest.cpp.obj -c C:\\Users\\Андрей\\Desktop\\UniProjects\\Higher-School-of-Economics\\CPP\\merge-sort-z-c0mbat\\external\\doctest\\doctest.cpp",
+  "file": "C:\\Users\\Андрей\\Desktop\\UniProjects\\Higher-School-of-Economics\\CPP\\merge-sort-z-c0mbat\\external\\doctest\\doctest.cpp"
+},
+{
+  "directory": "C:/Users/Андрей/Desktop/UniProjects/Higher-School-of-Economics/CPP/merge-sort-z-c0mbat/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -IC:/Users/Андрей/Desktop/UniProjects/Higher-School-of-Economics/CPP/merge-sort-z-c0mbat/external/doctest -g -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast -std=gnu++20 -o merge-sort\\CMakeFiles\\merge-sort-test.dir\\merge-sort.cpp.obj -c C:\\Users\\Андрей\\Desktop\\UniProjects\\Higher-School-of-Economics\\CPP\\merge-sort-z-c0mbat\\merge-sort\\merge-sort.cpp",
+  "file": "C:\\Users\\Андрей\\Desktop\\UniProjects\\Higher-School-of-Economics\\CPP\\merge-sort-z-c0mbat\\merge-sort\\merge-sort.cpp"
+},
+{
+  "directory": "C:/Users/Андрей/Desktop/UniProjects/Higher-School-of-Economics/CPP/merge-sort-z-c0mbat/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -IC:/Users/Андрей/Desktop/UniProjects/Higher-School-of-Economics/CPP/merge-sort-z-c0mbat/external/doctest -g -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast -std=gnu++20 -o merge-sort\\CMakeFiles\\merge-sort-test.dir\\test.cpp.obj -c C:\\Users\\Андрей\\Desktop\\UniProjects\\Higher-School-of-Economics\\CPP\\merge-sort-z-c0mbat\\merge-sort\\test.cpp",
+  "file": "C:\\Users\\Андрей\\Desktop\\UniProjects\\Higher-School-of-Economics\\CPP\\merge-sort-z-c0mbat\\merge-sort\\test.cpp"
+},
+{
+  "directory": "C:/Users/Андрей/Desktop/UniProjects/Higher-School-of-Economics/CPP/merge-sort-z-c0mbat/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -g -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast -std=gnu++20 -o merge-sort\\CMakeFiles\\merge-sort.dir\\merge-sort.cpp.obj -c C:\\Users\\Андрей\\Desktop\\UniProjects\\Higher-School-of-Economics\\CPP\\merge-sort-z-c0mbat\\merge-sort\\merge-sort.cpp",
+  "file": "C:\\Users\\Андрей\\Desktop\\UniProjects\\Higher-School-of-Economics\\CPP\\merge-sort-z-c0mbat\\merge-sort\\merge-sort.cpp"
+},
+{
+  "directory": "C:/Users/Андрей/Desktop/UniProjects/Higher-School-of-Economics/CPP/merge-sort-z-c0mbat/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -g -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast -std=gnu++20 -o merge-sort\\CMakeFiles\\merge-sort.dir\\main.cpp.obj -c C:\\Users\\Андрей\\Desktop\\UniProjects\\Higher-School-of-Economics\\CPP\\merge-sort-z-c0mbat\\merge-sort\\main.cpp",
+  "file": "C:\\Users\\Андрей\\Desktop\\UniProjects\\Higher-School-of-Economics\\CPP\\merge-sort-z-c0mbat\\merge-sort\\main.cpp"
+}
+]
