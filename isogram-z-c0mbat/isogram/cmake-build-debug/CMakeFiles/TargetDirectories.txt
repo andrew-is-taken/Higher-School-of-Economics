@@ -1,0 +1,5 @@
+C:/Users/Андрей/Desktop/HSE/Higher-School-of-Economics/CPP/isogram-z-c0mbat/isogram/cmake-build-debug/CMakeFiles/isogram_test.dir
+C:/Users/Андрей/Desktop/HSE/Higher-School-of-Economics/CPP/isogram-z-c0mbat/isogram/cmake-build-debug/CMakeFiles/isogram.dir
+C:/Users/Андрей/Desktop/HSE/Higher-School-of-Economics/CPP/isogram-z-c0mbat/isogram/cmake-build-debug/CMakeFiles/cloud-test.dir
+C:/Users/Андрей/Desktop/HSE/Higher-School-of-Economics/CPP/isogram-z-c0mbat/isogram/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Андрей/Desktop/HSE/Higher-School-of-Economics/CPP/isogram-z-c0mbat/isogram/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,9 @@
+# ninja log v5
+12	842	6771653851586301	isogram/CMakeFiles/isogram_test.dir/isogram_test.cpp.obj	333027e46fe0424a
+8	1079	6771653853956538	isogram/CMakeFiles/isogram_test.dir/isogram.cpp.obj	bdba021512fb8e11
+1	2616	6771653869305467	external/doctest/CMakeFiles/doctest.dir/doctest.cpp.obj	d7dd71dd726b8016
+2617	2908	6771653872252344	external/doctest/libdoctest.a	1ddc24e2b3ade4bf
+12	559	6771654947384652	isogram/CMakeFiles/isogram.dir/main.cpp.obj	423595eefcce462d
+1	747	6771654949297540	isogram/CMakeFiles/isogram.dir/isogram.cpp.obj	31ace08389afab55
+2908	3297	6771653876108622	isogram/isogram_test.exe	b58adfe212da1e55
+748	880	6771654950598324	isogram/isogram.exe	2e05993b7af96ca5
