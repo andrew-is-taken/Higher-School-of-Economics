@@ -1,0 +1,12 @@
+C:/Documents/CPP/binary-search-tree-z-c0mbat/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Documents/CPP/binary-search-tree-z-c0mbat/cmake-build-debug/CMakeFiles/test.dir
+C:/Documents/CPP/binary-search-tree-z-c0mbat/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Documents/CPP/binary-search-tree-z-c0mbat/cmake-build-debug/external/doctest/CMakeFiles/rebuild_cache.dir
+C:/Documents/CPP/binary-search-tree-z-c0mbat/cmake-build-debug/external/doctest/CMakeFiles/test.dir
+C:/Documents/CPP/binary-search-tree-z-c0mbat/cmake-build-debug/external/doctest/CMakeFiles/doctest.dir
+C:/Documents/CPP/binary-search-tree-z-c0mbat/cmake-build-debug/external/doctest/CMakeFiles/edit_cache.dir
+C:/Documents/CPP/binary-search-tree-z-c0mbat/cmake-build-debug/tree/CMakeFiles/tree-test.dir
+C:/Documents/CPP/binary-search-tree-z-c0mbat/cmake-build-debug/tree/CMakeFiles/cloud-test.dir
+C:/Documents/CPP/binary-search-tree-z-c0mbat/cmake-build-debug/tree/CMakeFiles/rebuild_cache.dir
+C:/Documents/CPP/binary-search-tree-z-c0mbat/cmake-build-debug/tree/CMakeFiles/test.dir
+C:/Documents/CPP/binary-search-tree-z-c0mbat/cmake-build-debug/tree/CMakeFiles/edit_cache.dir

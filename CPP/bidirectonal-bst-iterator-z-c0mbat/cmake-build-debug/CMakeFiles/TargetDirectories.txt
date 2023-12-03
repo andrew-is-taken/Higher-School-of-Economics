@@ -1,0 +1,12 @@
+C:/Documents/CPP/bidirectonal-bst-iterator-z-c0mbat/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Documents/CPP/bidirectonal-bst-iterator-z-c0mbat/cmake-build-debug/CMakeFiles/test.dir
+C:/Documents/CPP/bidirectonal-bst-iterator-z-c0mbat/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Documents/CPP/bidirectonal-bst-iterator-z-c0mbat/cmake-build-debug/external/doctest/CMakeFiles/rebuild_cache.dir
+C:/Documents/CPP/bidirectonal-bst-iterator-z-c0mbat/cmake-build-debug/external/doctest/CMakeFiles/test.dir
+C:/Documents/CPP/bidirectonal-bst-iterator-z-c0mbat/cmake-build-debug/external/doctest/CMakeFiles/doctest.dir
+C:/Documents/CPP/bidirectonal-bst-iterator-z-c0mbat/cmake-build-debug/external/doctest/CMakeFiles/edit_cache.dir
+C:/Documents/CPP/bidirectonal-bst-iterator-z-c0mbat/cmake-build-debug/tree-iterator/CMakeFiles/iterator_test.dir
+C:/Documents/CPP/bidirectonal-bst-iterator-z-c0mbat/cmake-build-debug/tree-iterator/CMakeFiles/cloud-test.dir
+C:/Documents/CPP/bidirectonal-bst-iterator-z-c0mbat/cmake-build-debug/tree-iterator/CMakeFiles/rebuild_cache.dir
+C:/Documents/CPP/bidirectonal-bst-iterator-z-c0mbat/cmake-build-debug/tree-iterator/CMakeFiles/test.dir
+C:/Documents/CPP/bidirectonal-bst-iterator-z-c0mbat/cmake-build-debug/tree-iterator/CMakeFiles/edit_cache.dir

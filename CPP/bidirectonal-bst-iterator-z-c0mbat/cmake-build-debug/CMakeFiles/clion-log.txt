@@ -1,0 +1,19 @@
+"C:\Program Files\JetBrains\CLion 2021.3.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2021.3.2/bin/ninja/win/ninja.exe" -G Ninja C:\Documents\CPP\bidirectonal-bst-iterator-z-c0mbat
+CMake Error at CMakeLists.txt:11 (include):
+  include could not find requested file:
+
+    cmake/StandardProjectSettings.cmake
+
+
+CMake Error at CMakeLists.txt:16 (include):
+  include could not find requested file:
+
+    cmake/CompilerWarnings.cmake
+
+
+CMake Error at CMakeLists.txt:17 (set_project_warnings):
+  Unknown CMake command "set_project_warnings".
+
+
+-- Configuring incomplete, errors occurred!
+See also "C:/Documents/CPP/bidirectonal-bst-iterator-z-c0mbat/cmake-build-debug/CMakeFiles/CMakeOutput.log".

@@ -1,0 +1,13 @@
+# ninja log v5
+3010	3652	6772412164333993	WordleGame.exe	d621784f685deb02
+9	2452	6772412152383113	CMakeFiles/WordleGame.dir/Game/Cell.cpp.obj	aa2cf24cb0157740
+17	2749	6772412155363110	CMakeFiles/WordleGame.dir/Game/functions.cpp.obj	fbe5401e0f4edc59
+21	3047	6772412323802622	CMakeFiles/game_test.dir/Game/Cell.cpp.obj	ef082bb1fdef457a
+1	2761	6772412155483763	CMakeFiles/WordleGame.dir/Game/main.cpp.obj	4dc69218f1d81e8a
+25	3375	6772412327092348	external/doctest/CMakeFiles/doctest.dir/doctest.cpp.obj	43be81b3b51eba1a
+13	3009	6772412157964305	CMakeFiles/WordleGame.dir/Game/Game.cpp.obj	bf04cf8834a741f9
+13	3215	6772412325515365	CMakeFiles/game_test.dir/Game/functions.cpp.obj	792036b784d7100c
+17	3564	6772412328979892	CMakeFiles/game_test.dir/Game/Game.cpp.obj	b865446c692a7d5c
+1	3577	6772412329105089	CMakeFiles/game_test.dir/Game/test.cpp.obj	afd5202aa61a5297
+3378	3714	6772412330506617	external/doctest/libdoctest.a	1ddc24e2b3ade4bf
+3714	4657	6772412339855254	game_test.exe	c5d3ad529dce1ef4

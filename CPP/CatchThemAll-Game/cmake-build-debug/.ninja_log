@@ -1,0 +1,8 @@
+# ninja log v5
+3	605	6772449181378954	CMakeFiles/Game_test.dir/Test.cpp.obj	96ff297c13090563
+79	3219	6772443686526072	external/doctest/CMakeFiles/doctest.dir/doctest.cpp.obj	4bd3bffbcd335756
+3220	3520	6772443689578888	external/doctest/libdoctest.a	1ddc24e2b3ade4bf
+605	1086	6772449186148913	Game_test.exe	c84c15966e721d4a
+11	1100	6772453130441598	CMakeFiles/Game.dir/main.cpp.obj	c5f23e507b83bae0
+3	1163	6772459187109112	CMakeFiles/Game.dir/AppManager.cpp.obj	f63369a87a1461e2
+1163	1759	6772459193012846	Game.exe	fa499e11fc182f38

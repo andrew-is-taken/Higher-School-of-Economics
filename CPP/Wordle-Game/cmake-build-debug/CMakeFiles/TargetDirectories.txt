@@ -1,0 +1,8 @@
+C:/Users/Андрей/Desktop/HSE/Higher-School-of-Economics/CPP/Wordle-Game/cmake-build-debug/CMakeFiles/game_test.dir
+C:/Users/Андрей/Desktop/HSE/Higher-School-of-Economics/CPP/Wordle-Game/cmake-build-debug/CMakeFiles/cloud-test.dir
+C:/Users/Андрей/Desktop/HSE/Higher-School-of-Economics/CPP/Wordle-Game/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Андрей/Desktop/HSE/Higher-School-of-Economics/CPP/Wordle-Game/cmake-build-debug/CMakeFiles/WordleGame.dir
+C:/Users/Андрей/Desktop/HSE/Higher-School-of-Economics/CPP/Wordle-Game/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Андрей/Desktop/HSE/Higher-School-of-Economics/CPP/Wordle-Game/cmake-build-debug/external/doctest/CMakeFiles/rebuild_cache.dir
+C:/Users/Андрей/Desktop/HSE/Higher-School-of-Economics/CPP/Wordle-Game/cmake-build-debug/external/doctest/CMakeFiles/doctest.dir
+C:/Users/Андрей/Desktop/HSE/Higher-School-of-Economics/CPP/Wordle-Game/cmake-build-debug/external/doctest/CMakeFiles/edit_cache.dir

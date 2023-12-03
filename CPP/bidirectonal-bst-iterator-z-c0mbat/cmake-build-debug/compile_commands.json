@@ -1,0 +1,17 @@
+[
+{
+  "directory": "C:/Documents/CPP/bidirectonal-bst-iterator-z-c0mbat/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -IC:/Documents/CPP/bidirectonal-bst-iterator-z-c0mbat/external/doctest -g -std=gnu++11 -o external\\doctest\\CMakeFiles\\doctest.dir\\doctest.cpp.obj -c C:\\Documents\\CPP\\bidirectonal-bst-iterator-z-c0mbat\\external\\doctest\\doctest.cpp",
+  "file": "C:\\Documents\\CPP\\bidirectonal-bst-iterator-z-c0mbat\\external\\doctest\\doctest.cpp"
+},
+{
+  "directory": "C:/Documents/CPP/bidirectonal-bst-iterator-z-c0mbat/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -IC:/Documents/CPP/bidirectonal-bst-iterator-z-c0mbat/external/doctest -g -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast -std=gnu++20 -o tree-iterator\\CMakeFiles\\iterator_test.dir\\tree.cpp.obj -c C:\\Documents\\CPP\\bidirectonal-bst-iterator-z-c0mbat\\tree-iterator\\tree.cpp",
+  "file": "C:\\Documents\\CPP\\bidirectonal-bst-iterator-z-c0mbat\\tree-iterator\\tree.cpp"
+},
+{
+  "directory": "C:/Documents/CPP/bidirectonal-bst-iterator-z-c0mbat/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -IC:/Documents/CPP/bidirectonal-bst-iterator-z-c0mbat/external/doctest -g -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast -std=gnu++20 -o tree-iterator\\CMakeFiles\\iterator_test.dir\\test.cpp.obj -c C:\\Documents\\CPP\\bidirectonal-bst-iterator-z-c0mbat\\tree-iterator\\test.cpp",
+  "file": "C:\\Documents\\CPP\\bidirectonal-bst-iterator-z-c0mbat\\tree-iterator\\test.cpp"
+}
+]
