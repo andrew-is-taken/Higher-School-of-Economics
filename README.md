@@ -2,4 +2,4 @@
 
 Some tasks from HSE university
 
-P.S. Best uni in Russia btw ;)
+P.S. The best uni in Russia btw ;)
