@@ -4,16 +4,6 @@ Uni and Leet Code Solutions
 
 <br />
 
-📖 Table of Contents
-
-About The Repository
-
-University Assignments
-
-LeetCode Solutions
-
-Technologies Used
-
 💡 About The Repository
 
 This repository serves as a comprehensive portfolio showcasing academic assignments from various university courses, alongside solutions to competitive programming problems from LeetCode.
@@ -39,5 +29,5 @@ Target Areas: Dynamic Programming, Graph Traversal, Array Manipulation, and Back
 The solutions are implemented using a mix of languages based on the problem requirements and optimization goals.
 
 <p align="center">
-A portfolio by Andrew.
+By Andrei Koshelev.
 </p>
